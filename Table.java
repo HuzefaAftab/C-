@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HW1_Table {
+public class Table {
 
     
     public static void main(String[] args) {
