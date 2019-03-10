@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class HW8_PlaceQueens {
+public class PlaceQueens {
 
     /*
     Name = Huzefa Aftab
@@ -135,7 +135,7 @@ public class HW8_PlaceQueens {
     public static void resetBoard(char[][] board){
         int r,c;
         if (board == null){
-            System.out.println("Not a valid board. Could not be reset.");
+            System.out.println("Not a valid board.");
             return;
         }
         for(r = 0; r<board.length; r++){
@@ -157,7 +157,7 @@ public class HW8_PlaceQueens {
         String lineStr;
         
         if (board == null){
-            System.out.println("Not a valid board. Cannot be printed.");
+            System.out.println("Not a valid board.");
             return;
         }
         
