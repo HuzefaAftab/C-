@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HW2_DayOfWeek {
+public class DayOfWeek {
 
    
     public static void main(String[] args) {
