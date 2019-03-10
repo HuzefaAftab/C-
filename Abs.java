@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HW2_Abs {
+public class Abs {
 
     
     public static void main(String[] args) {
