@@ -1,6 +1,6 @@
     import java.util.Scanner;
 
-    public class HW2_Animation {
+    public class Animation {
     public static void main(String[] args) {
           
         circle();
