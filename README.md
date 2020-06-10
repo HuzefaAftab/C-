@@ -1,4 +1,4 @@
-# Huzefa Aftab
+
 ## Java Code
 ###### Abs.java
 > This program computes the difference between two numbers and show the result in absolute.
